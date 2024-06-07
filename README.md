@@ -122,26 +122,8 @@ For any questions or inquiries, please contact:
   - GitHub: [github.com/surenoobster](https://github.com/surenoobster)
 ```
 
-### Step 3: Add and Commit the README.md
 
-1. **Add the `README.md` file to your Git repository**:
+![Screenshot from 2024-03-23 13-50-22](https://github.com/surenoobster/LLM-GEMINI/assets/154669584/34cfdb49-c44f-45af-ab50-9f4ea16fef35)
 
-    ```sh
-    git add README.md
-    ```
 
-2. **Commit the file**:
-
-    ```sh
-    git commit -m "Add README.md"
-    ```
-
-3. **Push the changes to GitHub**:
-
-    ```sh
-    git push origin master
-    ```
-
-### Summary
-
-By following these steps, you will create a `README.md` file that provides comprehensive documentation for your project. This file will help users understand what your project does, how to set it up, and how to use it. Make sure to keep your documentation up-to-date as your project evolves.
+how docker will look like
