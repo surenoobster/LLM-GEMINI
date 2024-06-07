@@ -123,7 +123,13 @@ For any questions or inquiries, please contact:
 ```
 
 
-![Screenshot from 2024-03-23 13-50-22](https://github.com/surenoobster/LLM-GEMINI/assets/154669584/34cfdb49-c44f-45af-ab50-9f4ea16fef35)
 
 
-how docker will look like
+
+
+
+
+
+
+![Screenshot from 2024-06-07 19-44-33](https://github.com/surenoobster/LLM-GEMINI/assets/154669584/d1e4e68a-4d49-4198-b845-266db068de72)
+
