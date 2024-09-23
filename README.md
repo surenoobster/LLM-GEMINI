@@ -124,7 +124,9 @@ For any questions or inquiries, please contact:
 
 
 
+https://llm-gemini-b6zy4fyuutwb6wg8f5yuec.streamlit.app/
 
+deployed on streamlit cloud
 
 
 
